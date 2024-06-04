@@ -1,4 +1,8 @@
 {
+    "name": "study/slim",
+    "description": "learning microframework slim",
+    "type": "project",
+    "license": "MIT",
     "require": {
         "slim/slim": "^4.13",
         "slim/psr7": "^1.6",
